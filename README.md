@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego Figueroa.@Figue13
+- 👋 Hi, I’m Diego Figueroa
 - 👀 I’m interested in new technologies and improve my stack
 - 🌱 I’m currently learning Python,JavaScript.
 - 📫 How to reach me:
